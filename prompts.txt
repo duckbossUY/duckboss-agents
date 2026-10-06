@@ -1,0 +1,4 @@
+La Idea es un Agente que este al tanto de las Noticias que tengan que Ver con Habilitaciones Bromatologicas de Locales Comerciales, Vehiculos de la Republica Oriental del Uruguay,del Ministerio de Salud Publica con lo que tenga que ver con habilitaciones de plantas industriales de alimentos, y de los ultimos datos acerca de la enfermedad Celiaca.
+Que genere contenido con las noticias para una pagina que brinda servicios de habilitaciones para poner en la pagina ese contenido y generar SEO y las nuevas metas para la IA crawlers
+
+

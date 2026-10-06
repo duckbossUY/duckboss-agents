@@ -1,0 +1,12 @@
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.git
+.gitignore
+.env
+web-ui/node_modules
+web-ui/.vite
+web-ui/dist
+*.log

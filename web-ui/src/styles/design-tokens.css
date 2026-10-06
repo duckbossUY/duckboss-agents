@@ -1,0 +1,52 @@
+:root {
+  --font-display: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  /* Color Palette - Obsidian & Aurora Sleek */
+  --bg-app: #06080f;
+  --bg-surface: #0a0f1e;
+  --bg-surface-hover: #111a30;
+  --bg-surface-elevated: #0f172a;
+  
+  --bg-card: rgba(13, 20, 36, 0.65);
+  --bg-card-hover: rgba(17, 26, 48, 0.85);
+  --bg-card-border: rgba(255, 255, 255, 0.08);
+  --bg-card-border-hover: rgba(56, 189, 248, 0.35);
+  --bg-console: #04060b;
+
+  --text-main: #f8fafc;
+  --text-secondary: #a8b5c8;
+  --text-muted: #8391a7;
+
+  /* Brand & Aurora System */
+  --aurora-indigo: #6366f1;
+  --aurora-cyan: #06b6d4;
+  --aurora-gradient: linear-gradient(135deg, #6366f1 0%, #06b6d4 100%);
+  --aurora-glow: rgba(99, 102, 241, 0.25);
+  --aurora-border: rgba(99, 102, 241, 0.3);
+
+  --primary: #10b981;
+  --primary-light: #34d399;
+  --primary-glow: rgba(16, 185, 129, 0.25);
+  
+  --cyan: #38bdf8;
+  --cyan-glow: rgba(56, 189, 248, 0.25);
+  
+  --purple: #a855f7;
+  --purple-glow: rgba(168, 85, 247, 0.25);
+  
+  --amber: #f59e0b;
+  --amber-glow: rgba(245, 158, 11, 0.2);
+  
+  --rose: #f43f5e;
+  --rose-glow: rgba(244, 63, 94, 0.25);
+
+  --border-subtle: rgba(255, 255, 255, 0.08);
+  --border-focus: rgba(56, 189, 248, 0.5);
+
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+}

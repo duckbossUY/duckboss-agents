@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Node & Frontend
+web-ui/node_modules/
+web-ui/dist/
+web-ui/.vite/
+
+# Environments
+.env
+.env.local
